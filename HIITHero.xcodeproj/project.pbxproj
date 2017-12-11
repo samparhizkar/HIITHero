@@ -54,7 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				2288F3A21FCAE45C00216DC3 /* WorkoutDetailViewController.swift */,
-				2271C0D41FBD6E64000A8122 /* sweatTimer */,
+				2271C0D41FBD6E64000A8122 /* HIITHero */,
 				2271C0D31FBD6E64000A8122 /* Products */,
 				2271C0E91FBD79AE000A8122 /* Frameworks */,
 			);
@@ -68,7 +68,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2271C0D41FBD6E64000A8122 /* sweatTimer */ = {
+		2271C0D41FBD6E64000A8122 /* HIITHero */ = {
 			isa = PBXGroup;
 			children = (
 				2271C0D51FBD6E64000A8122 /* AppDelegate.swift */,
@@ -84,7 +84,7 @@
 				2271C0E01FBD6E64000A8122 /* LaunchScreen.storyboard */,
 				2271C0E31FBD6E64000A8122 /* Info.plist */,
 			);
-			path = sweatTimer;
+			path = HIITHero;
 			sourceTree = "<group>";
 		};
 		2271C0E91FBD79AE000A8122 /* Frameworks */ = {
@@ -314,9 +314,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2W99DW6UR4;
-				INFOPLIST_FILE = sweatTimer/Info.plist;
+				INFOPLIST_FILE = HIITHero/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.samparhizkar.sweatTimer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.samparhizkar.HIITHero;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -329,9 +329,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2W99DW6UR4;
-				INFOPLIST_FILE = sweatTimer/Info.plist;
+				INFOPLIST_FILE = HIITHero/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.samparhizkar.sweatTimer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.samparhizkar.HIITHero;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
