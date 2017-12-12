@@ -6,6 +6,3 @@ Zero configuration is needed to get started.
 Through using the workouts you are being guided with dynamic voice just like siri, so there is no need to look at your phone or hold it while you ar exercising.
 
 <img src="https://i.imgur.com/VFz4UkB.png?2">
-
-<img src="https://i.imgur.com/44YMczD.jpg">
-
